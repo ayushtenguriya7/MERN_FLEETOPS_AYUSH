@@ -3,12 +3,12 @@
 **FleetOps** is a full-stack fleet management web application built with the MERN stack (MongoDB, Express, React, Node.js). It provides real-time monitoring, driver management, shift tracking, incident reporting, and data export — all through a clean, role-based interface.
 
 ---
-
+https://fleet-ops-hazel.vercel.app/
 ## 🌐 Live Demo
 
 > Frontend: `http://localhost:5173`  
 > Backend API: `http://localhost:5000`  
-> Deployment: Configured for [Vercel](https://vercel.com) via `vercel.json`
+> Live Deployment: https://fleet-ops-hazel.vercel.app/
 
 ---
 
@@ -427,7 +427,7 @@ Frontend will be available at: `http://localhost:5173`
 
 ## 🌍 Deployment (Vercel)
 
-The project includes a `vercel.json` for full-stack Vercel deployment:
+[The project includes a `vercel.json` for full-stack Vercel deployment:](https://fleet-ops-hazel.vercel.app/)
 
 ```json
 {
